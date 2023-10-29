@@ -251,3 +251,14 @@
 
 `完成截图`
 >获取大学习完成截图
+
+## 致谢
+[MistEO/Pallas-Bot](https://github.com/MistEO/Pallas-Bot)\
+[KroMiose/nonebot_plugin_naturel_gpt](https://github.com/KroMiose/nonebot_plugin_naturel_gpt)\
+[lgc-NB2Dev/nonebot-plugin-picstatus](https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus)\
+[nonepkg/plugin-manager](https://github.com/nonepkg/plugin-manager)\
+[mengshouer/nonebot_plugin_analysis_bilibili](https://github.com/mengshouer/nonebot_plugin_analysis_bilibili)\
+[NumberSir/nonebot_plugin_arktools](https://github.com/NumberSir/nonebot_plugin_arktools)\
+[ayanamiblhx/nonebot_plugin_youthstudy](https://github.com/ayanamiblhx/nonebot_plugin_youthstudy)\
+[GuGuMur/nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)
+[noneplugin/nonebot-plugin-withdraw](https://github.com/noneplugin/nonebot-plugin-withdraw)
