@@ -78,31 +78,31 @@
 
 日常使用中at牛牛并加上要说的话就可以激活了
 
-`/rg <on|off>`
+`rg <on|off>`
 >会话人格开关
 
-`/rg [help]`
+`rg [help]`
 >查看当前可用的预设
 
-`/rg help -admin`
+`rg help -admin`
 >查看管理员帮助(全局命令只有超管能用哦)
 
-`/rg new <preset_key> <preset_intro>`
+`rg new <preset_key> <preset_intro>`
 >添加人格 | preset_key - 人格名 | preset_intro - 人格自我介绍 |
 
-`/rg edit <preset_key> <preset_intro>`
+`rg edit <preset_key> <preset_intro>`
 >编辑人格预设 | preset_key - 人格名 | preset_intro - 人格自我介绍 |
 
-`/rg del <preset_key>`
+`rg del <preset_key>`
 >人格删除 | preset_ket - 人格名 |
 
-`/rg rename <old_preset_key> <new_preset_key>`
+`rg rename <old_preset_key> <new_preset_key>`
 >人格重命名 | old_preset_key - 旧人格名 | new_preset_key - 新人格名 |
 
-`/rg query <preset_key>`
+`rg query <preset_key>`
 >人格查询 | preset_key - 人格名 |
 
-`/rg reset <preset_key>`
+`rg reset <preset_key>`
 >重置会话人格 (清除除人设外的所有记忆和上下文) | preset_key - 人格名 |
 
 ### 森空岛自动签到[nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)
