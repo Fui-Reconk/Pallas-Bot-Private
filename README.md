@@ -30,6 +30,7 @@
 - [nonebot_plugin_arktools](#明日方舟小工具箱插件nonebot_plugin_arktools)
 - [nonebot_plugin_withdraw](#简单撤回插件nonebot_plugin_withdraw)
 - [nonebot_plugin_youthstudy](#青年大学习插件nonebot_plugin_youthstudy)
+- [nonebot_plugin_analysis_bilibili](#bilibili-视频番剧解析插件nonebot_plugin_analysis_bilibili)
 
 ## [使用帮助](#-使用帮助)
 
@@ -252,7 +253,13 @@
 `完成截图`
 >获取大学习完成截图
 
+### bilibili 视频、番剧解析插件[nonebot_plugin_analysis_bilibili](https://github.com/mengshouer/nonebot_plugin_analysis_bilibili)
+
+私聊或群聊发送 bilibili 的小程序/链接
+>自动解析，没有指令
+
 ## 致谢
+
 [MistEO/Pallas-Bot](https://github.com/MistEO/Pallas-Bot)\
 [KroMiose/nonebot_plugin_naturel_gpt](https://github.com/KroMiose/nonebot_plugin_naturel_gpt)\
 [lgc-NB2Dev/nonebot-plugin-picstatus](https://github.com/lgc-NB2Dev/nonebot-plugin-picstatus)\
@@ -260,5 +267,5 @@
 [mengshouer/nonebot_plugin_analysis_bilibili](https://github.com/mengshouer/nonebot_plugin_analysis_bilibili)\
 [NumberSir/nonebot_plugin_arktools](https://github.com/NumberSir/nonebot_plugin_arktools)\
 [ayanamiblhx/nonebot_plugin_youthstudy](https://github.com/ayanamiblhx/nonebot_plugin_youthstudy)\
-[GuGuMur/nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)
+[GuGuMur/nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)\
 [noneplugin/nonebot-plugin-withdraw](https://github.com/noneplugin/nonebot-plugin-withdraw)
