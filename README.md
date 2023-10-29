@@ -78,7 +78,7 @@
 
 日常使用中at牛牛并加上要说的话就可以激活了
 
-`rg <on|off>`
+`/rg <on|off>`
 >会话人格开关
 
 `/rg [help]`
@@ -99,10 +99,10 @@
 `/rg rename <old_preset_key> <new_preset_key>`
 >人格重命名 | old_preset_key - 旧人格名 | new_preset_key - 新人格名 |
 
-`rg query <preset_key>`
+`/rg query <preset_key>`
 >人格查询 | preset_key - 人格名 |
 
-`rg reset <preset_key>`
+`/rg reset <preset_key>`
 >重置会话人格 (清除除人设外的所有记忆和上下文) | preset_key - 人格名 |
 
 ### 森空岛自动签到[nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)
@@ -118,7 +118,7 @@
 
 #### 私聊补充token
 
-``skland bind \<token>``
+``skland bind <token>``
 
 #### Token获取  
 
