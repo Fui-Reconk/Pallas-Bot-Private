@@ -31,8 +31,12 @@
 - [nonebot_plugin_withdraw](#简单撤回插件nonebot_plugin_withdraw)
 - [nonebot_plugin_youthstudy](#青年大学习插件nonebot_plugin_youthstudy)
 - [nonebot_plugin_analysis_bilibili](#bilibili-视频番剧解析插件nonebot_plugin_analysis_bilibili)
-
+- [nonebot_plugin_setu](#精美涩图插件nonebot_plugin_setu)
+  
 ## [使用帮助](#-使用帮助)
+
+`/帮助/牛牛帮助/help）`
+>查看帮助文档
 
 ### 轮盘抽奖[roulette](https://github.com/MistEO/Pallas-Bot)
 
@@ -258,6 +262,17 @@
 私聊或群聊发送 bilibili 的小程序/链接
 >自动解析，没有指令
 
+### ~~精美~~涩图插件[nonebot_plugin_setu](https://github.com/ayanamiblhx/nonebot_plugin_setu)
+
+`涩图帮助`
+>查看帮助
+
+`牛牛涩涩/涩涩/无内鬼/setu/涩图`
+>发送图片
+
+`涩图tagA(和B和C)`
+>指定tag（最多3个tag）
+
 ## 致谢
 
 [MistEO/Pallas-Bot](https://github.com/MistEO/Pallas-Bot)\
@@ -269,3 +284,4 @@
 [ayanamiblhx/nonebot_plugin_youthstudy](https://github.com/ayanamiblhx/nonebot_plugin_youthstudy)\
 [GuGuMur/nonebot-plugin-skland-arksign](https://github.com/GuGuMur/nonebot-plugin-skland-arksign)\
 [noneplugin/nonebot-plugin-withdraw](https://github.com/noneplugin/nonebot-plugin-withdraw)
+[nonebot_plugin_setu](https://github.com/ayanamiblhx/nonebot_plugin_setu)
