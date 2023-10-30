@@ -35,7 +35,7 @@
   
 ## [使用帮助](#-使用帮助)
 
-`/帮助/牛牛帮助/help）`
+`帮助/牛牛帮助/help）`
 >查看帮助文档
 
 ### 轮盘抽奖[roulette](https://github.com/MistEO/Pallas-Bot)
